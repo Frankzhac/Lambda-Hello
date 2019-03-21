@@ -1,4 +1,6 @@
 Hello!
 
 My name Is Frank Hemle. My passion for web design led me to want to learn web development.
-I enjoy gaming and anything design related. I look forward to my growth with Lambda School!
+I enjoy gaming and anything design related.
+Three words that describe me "creative", "ambitious", "Open-minded"
+I look forward to my growth with Lambda School!
